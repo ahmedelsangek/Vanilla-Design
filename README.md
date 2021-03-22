@@ -1,2 +1,2 @@
 # Vanilla-Design
-website Designed with HTML, CSS, and Js
+* website Designed with HTML, CSS, and Js
